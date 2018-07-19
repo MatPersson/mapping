@@ -6,7 +6,7 @@ This is the start of a web page to host maps made by
 Matthew (Per=Peter) Lawson
 406 Maple Ave.
 Ewing, NJ 08618
-[spmlawson@gmail.com](mailto:spmlawson@gmail.com)
+mailto:spmlawson@gmail.com
 ```
 
 ### Markdown
